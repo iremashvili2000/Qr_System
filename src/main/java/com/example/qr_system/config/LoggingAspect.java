@@ -16,7 +16,7 @@ import java.util.Arrays;
 public class LoggingAspect {
 
 
-    /*
+
     @Around("within(@org.springframework.web.bind.annotation.RestController *) || @annotation(com.example.qr_system.config.LoggingAnnotation)")
     public Object around(ProceedingJoinPoint joinPoint) throws Throwable {
 
@@ -41,5 +41,5 @@ public class LoggingAspect {
                 ", Exception message: " + exception.getMessage());
     }
 
-     */
+
 }

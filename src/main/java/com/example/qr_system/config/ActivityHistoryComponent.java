@@ -16,7 +16,7 @@ import java.util.List;
 @Component
 public class ActivityHistoryComponent {
 
-    /*
+
     @Autowired
     private ActivityRepository activityRepository;
     @Autowired
@@ -40,5 +40,5 @@ public class ActivityHistoryComponent {
         }
     }
 
-     */
+
 }

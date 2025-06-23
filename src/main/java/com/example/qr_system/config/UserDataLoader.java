@@ -16,11 +16,8 @@ import java.util.List;
 
 @Component
 public class UserDataLoader implements CommandLineRunner {
-    @Override
-    public void run(String... args) throws Exception {
 
-    }
-    /*
+
     @Autowired
     private UserRepository userRepository;
 
@@ -73,6 +70,6 @@ public class UserDataLoader implements CommandLineRunner {
         }
     }
 
-     */
+
 }
 
