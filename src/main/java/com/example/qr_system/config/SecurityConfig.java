@@ -19,7 +19,7 @@ import java.util.List;
 @EnableWebSecurity
 public class SecurityConfig {
 
-    /*
+
     @Bean
     public OpenAPI openAPI() {
         return new OpenAPI()
@@ -45,5 +45,5 @@ public class SecurityConfig {
         };
     }
 
-     */
+
 }
